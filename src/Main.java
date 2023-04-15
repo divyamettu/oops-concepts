@@ -90,4 +90,4 @@ public class OOPsConcepts {
     }
 }
 //code get executed
-// it has only overriden methods
+// it has only overridden methods
