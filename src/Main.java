@@ -89,3 +89,5 @@ public class OOPsConcepts {
         rectangle.displayDetails();
     }
 }
+//code get executed
+// it has only overriden methods
